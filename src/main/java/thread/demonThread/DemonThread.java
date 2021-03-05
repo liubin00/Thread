@@ -1,4 +1,4 @@
-package Thread;
+package thread.demonThread;
 
 /**
  * 守护线程
